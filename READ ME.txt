@@ -1,1 +1,3 @@
-NEEDS JDK 16
+Web App needs JDK 16
+Python Fuzzer requires requests
+pip install requests
